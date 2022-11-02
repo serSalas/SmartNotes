@@ -1,0 +1,2 @@
+# SmartNotes
+Project with Django
